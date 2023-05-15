@@ -1,0 +1,21 @@
+.header-wrapper {
+    padding: 27px 2rem;
+}
+
+.header-wrapper_header-flex {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+}
+
+.menu-item {
+    margin-left: 2rem;
+}
