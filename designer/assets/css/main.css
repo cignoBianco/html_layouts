@@ -1,0 +1,44 @@
+.section {
+    margin: 2rem;
+    max-width: 1044px;
+}
+
+.section_flex-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.section_left-side {
+    max-width: 462px;
+}
+
+.tags {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.tags_tag {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 2rem;;
+}
+
+.section_title--big {
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 65px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.case-study {
+    font-size: 14px;
+    line-height: 48px;
+    margin: 35px;
+}
+
+.section-image {
+    width: 466px;
+    height: 466px;
+}
